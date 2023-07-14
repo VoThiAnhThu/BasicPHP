@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Trang chu</h1>
+    <h2>Them slogan kh</h2>
 </body>
 </html>
